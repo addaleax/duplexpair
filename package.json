@@ -7,7 +7,9 @@
   "directories": {
     "test": "test"
   },
-  "dependencies": {},
+  "dependencies": {
+    "readable-stream": "^2.3.3"
+  },
   "devDependencies": {
     "mocha": "^4.0.1",
     "nyc": "^11.3.0"
