@@ -22,11 +22,10 @@
     "url": "git+https://github.com/addaleax/duplexpair.git"
   },
   "keywords": [
-    "stack",
-    "trace",
-    "inspection",
-    "inspector",
-    "diagnostics"
+    "duplex",
+    "pair",
+    "streams",
+    "socket"
   ],
   "author": "Anna Henningsen <anna@addaleax.net>",
   "license": "MIT",
