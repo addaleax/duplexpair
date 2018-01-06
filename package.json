@@ -1,6 +1,6 @@
 {
   "name": "duplexpair",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Make a full duplex stream with 2 Duplex endpoints",
   "engine": ">=4.0.0",
   "main": "index.js",
